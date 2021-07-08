@@ -98,8 +98,6 @@
 - 回盲瓣：回肠末端向盲肠开口，称回盲口。此处肠壁内的环行肌增厚，并覆以黏膜而形成上、下两片半月形的皱襞称回盲瓣，此瓣的作用为阻止小肠内容物过快地流入大肠，以便食物在小肠内充分消化吸收，并可防止盲肠内容物逆流回小肠。
 - 齿状线：连接各肛柱下端与各肛瓣边缘的锯齿状环行线称齿状线或肛皮线。
 
-![1611302791027](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611302791027.png)
-
 ## Page 5
 
 ### 呼吸系统 describe the composition of the respiratory system.
@@ -120,8 +118,6 @@
 - 额窦：位于额骨眉弓深部，开口于中鼻道。
 - 筛窦：位于晒骨迷路，前、中筛窦开口于中鼻道，后筛窦开口于上鼻道。
 - 蝶窦：位于蝶骨体内，开口于蝶筛隐窝。
-
-![1611295742434](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611295742434.png)
 
 ### 喉 Describe the structure of the larynx and its relation to pronunciation.
 
@@ -244,8 +240,6 @@
 
 前列腺分为5叶：前叶、中叶、后叶和两侧叶。前列腺组织增生常发生在中叶和侧叶，压迫尿道，造成排尿困难。（后叶好发前列腺肿瘤）
 
-![1611215130044](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611215130044.png)
-
 ### 精子 The production and discharge of sperm
 
 睾丸产生精子和分泌男性激素。精子先贮存于附睾内，当射精时经输精管、射精管和尿道排出体外。精囊、前列腺和尿道球腺的分泌液参与组成精液，并供给精子营养，有利于精子活动。
@@ -286,8 +280,6 @@
 	- 二尖瓣（左房室口）：左侧第4胸肋关节处及胸骨左半的后方
 	- 三尖瓣（右房室口）：胸骨正中线的后方，平对第4肋间隙
 
-![1611202172937](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611202172937.png)
-
 ### 心包 Describe the structures of the cardiac surface?
 
 心包 pericardium 为包裹心和出入心的大血管根部的圆锥形纤维浆膜囊，分内、外两层，外层为纤维心包，内层为浆膜心包。
@@ -297,8 +289,6 @@
 	- 心包横窦：心包腔在主动脉、肺动脉后方与上腔静脉、左心房前壁前方间的间隙。（手术阻断主动脉、肺动脉血流）
 	- 心包斜窦：位于左心房后壁，左、右肺静脉、下腔静脉与心包后壁之间的心包腔。（手术阻断下腔静脉血流）
 	- 心包前下窦：位于心包腔的前下部，心包前壁与膈之间的交角处，心包穿刺，从剑突与左侧第7肋软骨交角处进行心包穿刺
-
-![1611202145106](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611202145106.png)
 
 房室交点：后房间沟、后室间沟、冠状沟的相交处，是心表面的重要标志。
 
@@ -322,10 +312,6 @@
 心传导系由特殊心肌细胞构成，包括窦房结、结间束、房室交界区（房室结）、房室束（His束）以及左右束支和Purkinje纤维网。
 兴奋传导（窦房结→心房肌→房室结→房室束→左、右束支→浦肯野氏纤维）→心室收缩。
 
-![1611198229882](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611198229882.png)
-
-![1611198524635](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611198524635.png)
-
 
 ### 心脏血流 Describe the blood supply of the heart
 
@@ -337,14 +323,10 @@
 右房、右室：由右冠状动脉供血。
 左室：其血液供应50%来自于左前降支，主要供应左室前壁和室间隔，30%来自回旋支，主要供应左室侧壁和后壁，20%来自右冠状动脉(右优势型)，供应范围包括左室下壁(膈面) 、后壁和室间隔。但左优势型时这些部位由左旋支供血，均衡型时左右冠脉同时供血。
 
-![1611202084119](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611202084119.png)
-
 - 静脉
 	- 冠状窦及其属支：心大静脉、心中静脉、心小静脉
 	- 心前静脉
 	- 心最小静脉
-
-![1611202112372](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611202112372.png)
 
 ## Page 10
 
@@ -469,8 +451,6 @@
 - 舌咽神经的舌支：分布于舌后1/3黏膜和味蕾，管理一般感觉和味觉。损伤后咽后与舌后1/3感觉障碍、咽反射消失，舌后1|3味觉丧失
 - 舌下神经：分布于舌肌，支配舌肌的运动。损伤后舌肌瘫痪、萎缩、伸舌时舌尖偏向患侧
 
-![1611497717196](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1611497717196.png)
-
 ## Page 13
 
 ### 脑干核 Describe the classification of brain stem nuclei.
@@ -550,8 +530,6 @@
   * **书写**中枢writing area：**额中回**后部，失写症
   * **听觉**性语言中枢auditory speech area：**颞上回**后部，感觉性失语症
   * **视觉**性语言中枢visual speech area：**顶下小叶角回**，失读症
-
-![](https://s2.ax1x.com/2020/01/13/l7PjUO.md.jpg)
 
 * 运动中枢：第I躯体运动区first somatic motor area，位于**中央前回和中央旁小叶前部**。对骨骼肌管理的局部定位关系：
   * **上下颠倒**，但**头部是正的**。（从上到下：先下肢，再上肢，最后头部）
